@@ -1,8 +1,6 @@
 ---
 
-# 📌 AWS Job Roles with Skills, Responsibilities, Education + AWS Services & Configurations
-
-# 📌 AWS & DevOps Fresher Roles with Skills, Responsibilities & Education
+# 📌 AWS & DevOps Job Roles with Skills, Responsibilities, Education + AWS Services & Configurations, Fresher Roles with Skills, Responsibilities & Education
 
 ---
 
